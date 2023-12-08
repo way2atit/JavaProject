@@ -6,6 +6,9 @@ public class Test4 {
 	String name = "Admin";
 	String name1 = "Admin";
 	String name2= "Admin";
+	String name = "Admin";
+	String name1 = "Admin";
+	String name2= "Admin";
 	
 	
 	
